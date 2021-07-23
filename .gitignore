@@ -1,0 +1,13 @@
+# Ignore all to ignore all files
+*
+
+ # Unignore files with specific extensions increase the specified file extensions
+!*.cpp
+!*.py
+!*.java
+!*.txt
+!*.md
+!*.gitignore
+
+ # Unignore all dirs increase in all directories
+!*/
